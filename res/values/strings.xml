@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">StudyGroup</string>
+	<string name="info_screen">Info screen</string>
+	<string name="notifs_screen">Notifs screen</string>
+	<string name="groups_screen">Groups screen</string>
+	<string name="join_group">Join Group</string>
+	<string name="create_group">Create Group</string>
+</resources>
