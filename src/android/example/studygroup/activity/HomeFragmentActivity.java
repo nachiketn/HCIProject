@@ -12,7 +12,7 @@ import android.example.studygroup.adapter.TabbedPagesAdapter;
 
 public class HomeFragmentActivity extends FragmentActivity implements
 		ActionBar.TabListener {
-
+	
 	private ViewPager viewPager;
 	private TabbedPagesAdapter mAdapter;
 	private ActionBar actionBar;
